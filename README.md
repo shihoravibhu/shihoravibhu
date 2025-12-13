@@ -21,9 +21,16 @@
     <img src="https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge&labelColor=0A0A0A"/>
   </a>
   <a href="https://github.com/shihoravibhu">
-    <img src="https://img.shields.io/badge/📓_Jupyter_Notebook-F37626?style=for-the-badge&labelColor=0A0A0A"/>
+    <img src="https://img.shields.io/badge/🧠_DSA-FF9800?style=for-the-badge&labelColor=0A0A0A"/>
+  </a>
+  <a href="https://github.com/shihoravibhu">
+    <img src="https://img.shields.io/badge/☕_Java-007396?style=for-the-badge&labelColor=0A0A0A"/>
+  </a>
+  <a href="https://github.com/shihoravibhu">
+    <img src="https://img.shields.io/badge/🔵_C_Programming-00599C?style=for-the-badge&labelColor=0A0A0A"/>
   </a>
 </div>
+
 
 ---
 
