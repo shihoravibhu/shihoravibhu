@@ -96,18 +96,21 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shihoravibhu/shihoravibhu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shihoravibhu/shihoravibhu/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shihoravibhu/shihoravibhu/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shihoravibhu/shihoravibhu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/shihoravibhu/shihoravibhu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/shihoravibhu/shihoravibhu/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<br>
 
 <br>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Quote"/>
 </div>
+
 
 
 ---
