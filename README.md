@@ -115,6 +115,9 @@
 ## 🌐 Let's Connect
 
 <div align="center">
+    <a href="https://www.linkedin.com/in/vibhu-shihora-78b352321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/shihoravibhu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=0A0A0A"/>
   </a>
