@@ -137,6 +137,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shihoravibhu&style=for-the-badge&color=00D9FF"/>
+  <img src="https://img.shields.io/github/followers/shihoravibhu?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0A0A0A" alt="Followers" />
+
 </div>
 
 ---
